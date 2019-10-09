@@ -1,4 +1,6 @@
 # React-Shopping
+A React-Redux shopping cart
+
 
 To run & install:
 
