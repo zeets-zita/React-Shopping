@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Konya';
+  src: url('../static/fonts/Konya.otf');
+}
+
+.home-container {
+    background: url("../static/potplants.jpg")center/cover no-repeat;
+    height: calc(100vh - 50px);
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .home-header h2 {
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-size: 100px;
+    letter-spacing: 10px;
+    margin-top: -20px;
+  }
+
+  .home-header p {
+    color: #bdaa84;
+    font-size: 36px;
+    font-family: 'Konya';
+    margin-top: -60px;
+    letter-spacing: 10px;
+    margin-left: 20px;
+    font-weight: bold;
+  }
+
+
+
+

@@ -1,0 +1,194 @@
+{
+    "products": [  
+      {
+        "id": 0,
+        "img": "Item4",
+        "title": "Pseudobombax Ellipticum",
+        "description": "with multi-coloured pot",
+        "price": 189.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 1,
+        "img": "Item8",
+        "title": "Dorstenia Foetida",
+        "description": "with blue/green stone pot",
+        "price": 120,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 2,
+        "img": "Item9",
+        "title": "Kalanchoe Bitteri",
+        "description": "with dark grey cylinder pot",
+        "price": 129.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 3,
+        "img": "Item10",
+        "title": "Agave Nigra 'sharkskin'",
+        "description": "with large silver pot",
+        "price": 149.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 4,
+        "img": "Item11",
+        "title": "Pachypodium Brevicaule",
+        "description": "with black & white pattern pot",
+        "price": 174.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 5,
+        "img": "Item12",
+        "title": "Pachypodium Eburneum",
+        "description": "with brown oval pot",
+        "price": 200.00,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 6,
+        "img": "Item13",
+        "title": "Euphorbia Obesa",
+        "description": "with light spiral shape pot",
+        "price": 249.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 7,
+        "img": "Item14",
+        "title": "Dorstenia Gypsophila",
+        "description": "with brown drip pattern pot",
+        "price": 224.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 8,
+        "img": "Item15",
+        "title": "Pachypodium Brevicaule",
+        "description": "with brown & black rock pot",
+        "price": 169.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 9,
+        "img": "Item16",
+        "title": "Commiphora Myrrha",
+        "description": "with blue/black cylinder pot",
+        "price": 134.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 10,
+        "img": "Item17",
+        "title": "Kalanchoe Bitteri",
+        "description": "with black square pot",
+        "price": 149.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+
+      {
+        "id": 11,
+        "img": "Item5",
+        "title": "Echeveria Agavoides",
+        "description": "with small blue oval pot",
+        "price": 139.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+
+      {
+        "id": 12,
+        "img": "Item1",
+        "title": "Pachypodium Densicaule",
+        "description": "with black stone formation pot",
+        "price": 109.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 13,
+        "img": "Item2",
+        "title": "Dioscorea Elephantipes",
+        "description": "with grey cylinder stone pot",
+        "price": 264.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 14,
+        "img": "Item3",
+        "title": "Stephania Venosa",
+        "description": "with grey/blue pot",
+        "price": 199.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 15,
+        "img": "Item7",
+        "title": "Othonna Euphorbioides",
+        "description": "with rust style pot",
+        "price": 149.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+  
+      {
+        "id": 16,
+        "img": "Item23",
+        "title": "Pelargonium Triste",
+        "description": "with brown tree design pot",
+        "price": 399.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+
+      {
+        "id": 17,
+        "img": "Item18",
+        "title": "Euphorbia Poissonii Variegated",
+        "description": "with cream marble cylinder pot",
+        "price": 349.99,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      },
+
+      {
+        "id": 18,
+        "img": "Item19",
+        "title": "Aloe Antandroi",
+        "description": "with white speckle pot",
+        "price": 175.0,
+        "currencyId": "ZAR",
+        "currencyFormat": "R"
+      }
+    ]
+  }
+  

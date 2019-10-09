@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:500);
+@import url(https://fonts.googleapis.com/css?family=Poppins&display=swap);
+.center-nav {
+  font-family: 'Poppins', Arial, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-top: -45px;
+}
+
+.brand-logo {
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.center-nav * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+
+.center-nav li {
+  display: inline-block;
+  list-style: outside none none;
+  margin: 0.2em 0.9em;
+  padding: 0;
+}
+.center-nav a {
+  padding: 0 0.6em;
+  color: rgba(65, 65, 65, 0.5);
+  position: relative;
+  text-decoration: none;
+}
+.center-nav a:before,
+.center-nav a:after {
+  width: 3px;
+  height: 0;
+  position: absolute;
+  content: '';
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  background-color: #CEB98E;
+}
+.center-nav a:before {
+  top: 0;
+  right: 0;
+}
+.center-nav a:after {
+  bottom: 0;
+  left: 0;
+}
+.center-nav a:hover,
+.center-nav .current a {
+  color: #858585;
+  text-decoration: none;
+}
+.center-nav a:hover:before,
+.center-nav .current a:before,
+.center-nav a:hover:after,
+.center-nav .current a:after {
+  height: 100%;
+}

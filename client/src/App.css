@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:500);
+@import url(https://fonts.googleapis.com/css?family=Poppins&display=swap);
+
+* {
+    font-family: 'Poppins', Arial, sans-serif;
+}
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap
+}
+.material-icons{
+    font-size: 2.4em;
+    cursor: pointer;
+}
+.card{
+    width: 300px;
+}
+.card .card-image .card-title{
+    color: black;
+    font-weight: 400
+}
+.cart{
+    margin-top:40px;
+}
+.collection .collection-item{
+    display: flex;
+}
+.collection-item.avatar .title {
+    font-size: 20px;
+    font-weight: 500;
+    color: #ee6e73;
+    display: block;
+    margin-bottom: 20px;
+    
+}
+.collection .collection-item img{
+    width: 150px;
+    margin-right: 25px;
+}
+.item-desc{
+    align-self:center;
+}
+
+.sort {
+    float: right;
+}
+    .select {
+      background-color: #fff;
+      outline: none;
+      border: 1px solid #ececec;
+      border-radius: 2px;
+      margin-left: 10px;
+      width: auto;
+      height: 35px;
+      cursor: pointer;
+    }
+      .select:hover {
+        border: 1px solid #5b5a5e;
+      
+  }
+
+
+.show-cart .cart-overlay {
+    pointer-events: auto;
+    opacity: 1;
+    background-color: rgba(0,0,0,.25);
+    transition: background-color .5s cubic-bezier(.39,.575,.565,1),transform 0s ease;
+    transform: translateX(-100%);
+    width: 100vw;
+}

@@ -1,0 +1,108 @@
+.list-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    min-height: 600px;
+    padding-top: 100px; 
+    margin-left: 50px;
+}
+
+.list-container-header {
+    width: 100%;
+}
+
+.list-container-header .products-found {
+    float: left;
+    margin: 0;
+    margin-top: 8px;
+}
+
+.list-container-header .sort {
+    float: right;
+}
+
+.list-container-header .sort select {
+    background-color: #fff;
+    outline: none;
+    border: 1px solid #ececec;
+    border-radius: 2px;
+    margin-left: 10px;
+    width: auto;
+    height: 35px;
+    cursor: pointer;
+}
+
+.list-container-header .sort select:hover {
+    border: 1px solid #5b5a5e;
+}
+
+.list-container .list-item {
+    width: 25%;
+    position: relative;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 30px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    
+}
+
+.list-container .list-item:hover .list-item-buy-btn {
+    background-color: #A3AD88;
+}
+
+.list-container .list-item-thumb img {
+    width: 100%;
+}
+.list-container .list-item-info {
+    position: relative;
+    justify-content: center;
+    height: 80px;
+}
+
+.list-container .list-item-info::before {
+    content: '';
+    background-color: #75635f;
+    width: 20px;
+    height: 2px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -10px;
+}
+
+.list-container .list-item-title {
+    position: relative;
+    margin: 5px;
+    padding: 0 20px;
+}
+
+.list-container .list-item-desc {
+    color: #7e7e7e;
+    font-size: 13px; 
+    position: relative;
+    margin: 5px;
+    height: 45px;
+}
+
+.list-container .list-item-price {
+    height: 40px;
+}
+
+.list-container .list-item-price .val b {
+    font-size: 1.5em;
+    margin-left: 5px;
+}
+
+.list-container .list-item-price {
+    color: #9c9b9b;
+}
+
+.list-container .list-item-buy-btn {
+    background-color: #525252;
+    color: #fff;
+    padding: 10px 0;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
